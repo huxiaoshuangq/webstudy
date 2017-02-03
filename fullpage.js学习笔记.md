@@ -16,18 +16,19 @@
 ---
 ### 引入文件源
 引入css文件
+```
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.2/jquery.fullPage.css" />	
 引入jquery.js
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.0/jquery.js">
 引入fullpage.js
 <script src="
-https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.2/jquery.fullPage.js">
-
+https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.2/jquery.fullPage.js">    
+```
 ---
 
 
 ### fullpage.js好在哪里?  
-![mark](http://oe40n695u.bkt.clouddn.com/blog/20170204/054806909.png)
+![mark](http://oe40n695u.bkt.clouddn.com/blog/20170204/054806909.png)  
 
 
 
