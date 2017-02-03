@@ -21,3 +21,7 @@
 - 使用markdown提交到个人博客
 - 代码托管在gh-pages
 - 做出的DEMO不只是展示,也会不断拓展,可以
+
+---
+
+![mark](http://oe40n695u.bkt.clouddn.com/blog/20170203/222838563.jpg)
