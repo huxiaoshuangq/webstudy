@@ -24,6 +24,7 @@
 - 熟悉提供的api函数
 
 比如:
+
 ![mark](http://oe40n695u.bkt.clouddn.com/blog/20170205/024839596.png)
 
 ---
