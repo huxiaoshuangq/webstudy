@@ -1,0 +1,88 @@
+### 背景  
+由于在电脑上看视频依托于网页体验不好  
+没有移动设备方便  
+而且网络还会卡顿  
+所以研究了批量下载youtube视频的方法  
+做到了以下功能  
+- 批量下载视频列表
+- 自动下中文字幕
+- 批量合成压制  
+
+![mark](http://oe40n695u.bkt.clouddn.com/blog/20170218/234450494.jpg)
+
+ 
+
+### 批量下载
+查看youtube,首先需要科学上网
+我使用的是greenvpn
+![mark](http://oe40n695u.bkt.clouddn.com/blog/20170218/234456370.png)
+
+ 
+但是挂载了一夜,早上起来之后  
+发现提示掉线了  
+这样可不行  
+于是开始研究买vps搭梯子的方法
+
+### its easy if you try
+
+![mark](http://oe40n695u.bkt.clouddn.com/blog/20170218/234500396.jpg)
+
+ 
+很多文章里都说用vps搭梯子上网是个技术活  
+我也找了很多教程  
+各种vpn服务商,各种脚本设置  
+是挺吓人的  
+可用了'搬瓦工',才发现如此简单  
+
+---
+### vps是什么鬼?
+![mark](http://oe40n695u.bkt.clouddn.com/blog/20170218/234506486.jpg)
+
+ 
+'搬瓦工`原名BandwagonHost  
+是海外vps主机  
+可以实现以下好玩有趣的事情:  
+- 科学上网,google/youtube/facebook
+- 搭建网站
+- 24小时爬虫,数据分析
+- Seafile 服务器，你将拥有一个属于自己的 Dropbox   
+
+---
+
+### 5步曲
+![mark](http://oe40n695u.bkt.clouddn.com/blog/20170218/234511701.jpg)
+
+ 
+1. 注册网站
+2. 支付宝购买套餐
+3. 进入后台点击一键安装
+4. 获取4对参数
+5. 下载Shadowsocks客户端 [填入4对参数]
+
+---
+
+### 为什么不写详细的教程?  
+
+因为有很多东西是不能随便写的  
+比如`简书`和`腾讯视频`  
+![mark](http://oe40n695u.bkt.clouddn.com/blog/20170218/234517209.png)  
+
+
+ ![mark](http://oe40n695u.bkt.clouddn.com/blog/20170218/234526913.png)
+
+
+---
+
+### youtube到底有什么好?
+下一期好诉你  
+到底,这个`不存在`的网站神奇的地方  
+以及,个人高效使用技巧  
+
+> 想要了解科学上网的小伙伴  
+
+可以摁住而二维码  
+私信我  
+![mark](http://oe40n695u.bkt.clouddn.com/blog/20170218/234538219.png)
+
+ 
+ 
